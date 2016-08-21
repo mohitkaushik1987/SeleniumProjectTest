@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12717" started-at="2016-07-17T10:25:30Z" finished-at="2016-07-17T10:25:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12717" started-at="2016-07-17T10:25:30Z" finished-at="2016-07-17T10:25:42Z">
+      <class name="testpackage.FirstTestNGFile">
+        <test-method status="PASS" signature="verifyLinksPresentOnAmazoneHomePage()[pri:0, instance:testpackage.FirstTestNGFile@a3d8174]" name="verifyLinksPresentOnAmazoneHomePage" duration-ms="4768" started-at="2016-07-17T03:25:30Z" finished-at="2016-07-17T03:25:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinksPresentOnAmazoneHomePage -->
+        <test-method status="PASS" signature="loginToAmazon()[pri:1, instance:testpackage.FirstTestNGFile@a3d8174]" name="loginToAmazon" duration-ms="7119" started-at="2016-07-17T03:25:34Z" finished-at="2016-07-17T03:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAmazon -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:2, instance:testpackage.FirstTestNGFile@a3d8174]" name="verifyHomepageTitle" duration-ms="787" started-at="2016-07-17T03:25:42Z" finished-at="2016-07-17T03:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+      </class> <!-- testpackage.FirstTestNGFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
